@@ -1,0 +1,36 @@
+{
+  "GetBranchesMs": 12,
+  "GetRemoteBranchesMs": 10,
+  "GetTrackingBranchesForPullMs": 27,
+  "GetSummaryMs": 631,
+  "GetTagsMs": 92,
+  "GetCommitLabelsMs": 11,
+  "GetStashesMs": 201,
+  "GetLogsMs": 298,
+  "GetCommitDetailsMs": 8,
+  "GetFileStatusAllMs": 800,
+  "GetRemoteReposMs": 9,
+  "TotalFiles": 19,
+  "HardwareStats": [
+    {
+      "MaxClockSpeed": "2501",
+      "NumberOfCores": "2",
+      "NumberOfLogicalProcessors": "4",
+      "Description": "Intel64 Family 6 Model 42 Stepping 7",
+      "WMIObjectSearchString": "Select * from Win32_Processor"
+    },
+    {
+      "MemoryBytes": "2147483648",
+      "MemoryGb": "2",
+      "WMIObjectSearchString": "Select * from Win32_PhysicalMemory"
+    },
+    {
+      "BuildNumber": "22000",
+      "OSDescription": "Microsoft Windows 11 Home Single Language",
+      "WMIObjectSearchString": "Select * from Win32_OperatingSystem"
+    }
+  ],
+  "SourceTreeVersion": "3.4.15.0",
+  "GitVersion": "2.42.0/LibGit2Sharp 0.26.2+g9a87d4c3d8.libgit2-106a5f2",
+  "IsSystemGit": true
+}
